@@ -13,4 +13,4 @@ client.on('messageCreate', async (message) => {
     }
 });
 
-client.login('YOUR_DISCORD_BOT_TOKEN');
+client.login(MTMyNjI0MDM5NTQxNTM5MjQ0Nw.GSEBOW.Xg8KncWJfuEVYB-rj_BVk6anngZAOU0_X-X3LQ);
